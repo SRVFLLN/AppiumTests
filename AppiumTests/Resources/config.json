@@ -1,0 +1,10 @@
+{
+  "RemoteServerAddress": "http://127.12.24.1:4723/wd/hub",
+  "DeviceName": "Pixel 2 API 30",
+  "PlatformName": "Android",
+  "PlatformVersion": "11.0",
+  "BrowserName": "Chrome",
+  "BaseUrl": "https://www.google.com",
+  "AppActivity": "com.example.avjindersinghsekhon.minimaltodo.Main.MainActivity",
+  "AppPackage": "com.avjindersinghsekhon.minimaltodo"
+}
